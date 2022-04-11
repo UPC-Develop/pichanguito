@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".CreateUserActivity">
+
+    <EditText
+        android:id="@+id/userNameText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/hint_userName"
+        android:inputType="textEmailAddress"
+        android:drawableStart="@drawable/ic_baseline_alternate_email_24"
+        android:textSize="24sp" />
+
+    <EditText
+        android:id="@+id/passwordText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/hint_password"
+        android:inputType="textPassword"
+        android:drawableStart="@drawable/ic_baseline_remove_red_eye_24"
+        android:textSize="24sp" />
+
+    <EditText
+        android:id="@+id/firstNameText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/hint_firstName"
+        android:inputType="textPersonName"
+        android:drawableStart="@drawable/ic_baseline_person_24"
+        android:textSize="24sp" />
+
+    <EditText
+        android:id="@+id/lastNameText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/hint_lastName"
+        android:drawableStart="@drawable/ic_baseline_person_24"
+        android:inputType="textPersonName"
+        android:textSize="24sp" />
+
+    <EditText
+        android:id="@+id/documentNumberText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/hint_documentNumber"
+        android:inputType="textPersonName"
+        android:drawableStart="@drawable/ic_baseline_aspect_ratio_24"
+        android:textSize="24sp" />
+    <EditText
+        android:id="@+id/ageText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/hint_age"
+        android:inputType="number"
+        android:drawableStart="@drawable/ic_baseline_access_time_24"
+        android:textSize="24sp" />
+
+    <EditText
+        android:id="@+id/heightText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/hint_height"
+        android:inputType="numberDecimal"
+        android:drawableStart="@drawable/ic_baseline_height_24"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/saveButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/text_saveButton"
+        android:drawableStart="@drawable/ic_baseline_save_24"
+        android:textSize="24sp" />
+</LinearLayout>
