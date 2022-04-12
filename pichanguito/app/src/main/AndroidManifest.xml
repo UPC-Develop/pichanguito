@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Pichanguito">
         <activity
+            android:name=".ResetUserPasswordActivity"
+            android:exported="false" />
+        <activity
+            android:name=".HomeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".RegisterUserActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

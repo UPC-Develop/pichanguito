@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Pichanguito</string>
+    <string name="invalid_useremail">Ingrese un correo electrónico válido.</string>
+    <string name="invalid_password">Ingrese un password mayor a 6 digitos.</string>
 </resources>

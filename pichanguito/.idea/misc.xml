@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Archivos/UPC/2022-1/desarrollo-movil/pichanguito-mb/pichanguito/pichanguito/app/src/main/res/layout/activity_main.xml" value="0.45" />
+        <entry key="..\:/Archivos/UPC/2022-1/desarrollo-movil/pichanguito-mb/pichanguito/pichanguito/app/src/main/res/layout/activity_home.xml" value="0.21041666666666667" />
+        <entry key="..\:/Archivos/UPC/2022-1/desarrollo-movil/pichanguito-mb/pichanguito/pichanguito/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Archivos/UPC/2022-1/desarrollo-movil/pichanguito-mb/pichanguito/pichanguito/app/src/main/res/layout/activity_register_user.xml" value="0.335" />
+        <entry key="..\:/Archivos/UPC/2022-1/desarrollo-movil/pichanguito-mb/pichanguito/pichanguito/app/src/main/res/layout/activity_reset_user_password.xml" value="0.290625" />
       </map>
     </option>
   </component>
