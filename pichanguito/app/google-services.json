@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "50893060577",
+    "project_id": "pichanguito-292af",
+    "storage_bucket": "pichanguito-292af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50893060577:android:8fb3ce3cddeaf6947ffaa0",
+        "android_client_info": {
+          "package_name": "com.pichanguito"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50893060577-voh6nphu7md23snc48sav72u1kca2ejk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB7POATRDg7ZuVwG7u9i5lRu2E_FXDP4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50893060577-voh6nphu7md23snc48sav72u1kca2ejk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50893060577:android:076f4782f10eebe37ffaa0",
+        "android_client_info": {
+          "package_name": "com.upc.pichanguito"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50893060577-voh6nphu7md23snc48sav72u1kca2ejk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB7POATRDg7ZuVwG7u9i5lRu2E_FXDP4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50893060577-voh6nphu7md23snc48sav72u1kca2ejk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
